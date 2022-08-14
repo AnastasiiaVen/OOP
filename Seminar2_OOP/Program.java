@@ -1,4 +1,4 @@
-package Version_2;
+package Seminar2_OOP;
 
 public class Program {
     public static void main(String[] args) {
