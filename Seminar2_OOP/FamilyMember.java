@@ -1,4 +1,4 @@
-package Version_2;
+package Seminar2_OOP;
 
 import java.util.List;
 
