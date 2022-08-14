@@ -1,4 +1,4 @@
-package Version_2;
+package Seminar2_OOP;
 
 public interface Research {
 
