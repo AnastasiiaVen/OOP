@@ -1,4 +1,4 @@
-package Seminar3_OOPP;
+package Seminar_3_OOPP;
 
 import java.util.Comparator;
 
