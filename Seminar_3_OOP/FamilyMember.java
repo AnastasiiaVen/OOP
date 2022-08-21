@@ -1,4 +1,4 @@
-package Seminar3_OOP;
+package Seminar_3_OOP;
 
 public class FamilyMember extends Person{
 
